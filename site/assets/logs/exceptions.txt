@@ -1,0 +1,2 @@
+2016-08-31 09:27:11	guest	http://praxis-ladar.dev/	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ProcessLogger' for key 'class' (in /wire/core/Modules.php line 1325)
+2016-08-31 09:27:11	guest	http://praxis-ladar.dev/	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'InputfieldIcon' for key 'class' (in /wire/core/Modules.php line 1325)
