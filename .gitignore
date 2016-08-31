@@ -13,7 +13,6 @@ sess_*
 *.swp
 *.swo
 wire
-.htaccess
 tmp
 upgrade.php
 .idea
